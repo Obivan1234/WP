@@ -1,0 +1,14 @@
+[
+  {
+    "code": 403,
+    "message": "Forbidden"
+  },
+  {
+    "code": 500,
+    "message": "Internal Server Error"
+  },
+  {
+    "code": 1006,
+    "message": "Invalid value"
+  }
+]

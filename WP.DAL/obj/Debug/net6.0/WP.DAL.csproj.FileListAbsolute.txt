@@ -1,0 +1,17 @@
+D:\Stepan\Programing\WP.API\WP.DAL\bin\Debug\net6.0\WP.DAL.deps.json
+D:\Stepan\Programing\WP.API\WP.DAL\bin\Debug\net6.0\WP.DAL.dll
+D:\Stepan\Programing\WP.API\WP.DAL\bin\Debug\net6.0\WP.DAL.pdb
+D:\Stepan\Programing\WP.API\WP.DAL\bin\Debug\net6.0\WP.Common.dll
+D:\Stepan\Programing\WP.API\WP.DAL\bin\Debug\net6.0\WP.Common.pdb
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\WP.DAL.csproj.AssemblyReference.cache
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\WP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\WP.DAL.AssemblyInfoInputs.cache
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\WP.DAL.AssemblyInfo.cs
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\WP.DAL.csproj.CoreCompileInputs.cache
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\WP.DAL.csproj.CopyComplete
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\WP.DAL.dll
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\refint\WP.DAL.dll
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\WP.DAL.pdb
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\ref\WP.DAL.dll
+D:\Stepan\Programing\WP.API\WP.DAL\bin\Debug\net6.0\WP.DAL.runtimeconfig.json
+D:\Stepan\Programing\WP.API\WP.DAL\obj\Debug\net6.0\WP.DAL.genruntimeconfig.cache

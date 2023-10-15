@@ -1,0 +1,17 @@
+D:\Stepan\Programing\WP.API\WP.BLL\bin\Debug\net6.0\WP.BLL.deps.json
+D:\Stepan\Programing\WP.API\WP.BLL\bin\Debug\net6.0\WP.BLL.dll
+D:\Stepan\Programing\WP.API\WP.BLL\bin\Debug\net6.0\WP.BLL.pdb
+D:\Stepan\Programing\WP.API\WP.BLL\bin\Debug\net6.0\WP.Common.dll
+D:\Stepan\Programing\WP.API\WP.BLL\bin\Debug\net6.0\WP.DAL.dll
+D:\Stepan\Programing\WP.API\WP.BLL\bin\Debug\net6.0\WP.DAL.pdb
+D:\Stepan\Programing\WP.API\WP.BLL\bin\Debug\net6.0\WP.Common.pdb
+D:\Stepan\Programing\WP.API\WP.BLL\obj\Debug\net6.0\WP.BLL.csproj.AssemblyReference.cache
+D:\Stepan\Programing\WP.API\WP.BLL\obj\Debug\net6.0\WP.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stepan\Programing\WP.API\WP.BLL\obj\Debug\net6.0\WP.BLL.AssemblyInfoInputs.cache
+D:\Stepan\Programing\WP.API\WP.BLL\obj\Debug\net6.0\WP.BLL.AssemblyInfo.cs
+D:\Stepan\Programing\WP.API\WP.BLL\obj\Debug\net6.0\WP.BLL.csproj.CoreCompileInputs.cache
+D:\Stepan\Programing\WP.API\WP.BLL\obj\Debug\net6.0\WP.BLL.csproj.CopyComplete
+D:\Stepan\Programing\WP.API\WP.BLL\obj\Debug\net6.0\WP.BLL.dll
+D:\Stepan\Programing\WP.API\WP.BLL\obj\Debug\net6.0\refint\WP.BLL.dll
+D:\Stepan\Programing\WP.API\WP.BLL\obj\Debug\net6.0\WP.BLL.pdb
+D:\Stepan\Programing\WP.API\WP.BLL\obj\Debug\net6.0\ref\WP.BLL.dll

@@ -1,0 +1,12 @@
+D:\Stepan\Programing\WP.API\WP.Common\bin\Debug\net6.0\WP.Common.deps.json
+D:\Stepan\Programing\WP.API\WP.Common\bin\Debug\net6.0\WP.Common.dll
+D:\Stepan\Programing\WP.API\WP.Common\bin\Debug\net6.0\WP.Common.pdb
+D:\Stepan\Programing\WP.API\WP.Common\obj\Debug\net6.0\WP.Common.csproj.AssemblyReference.cache
+D:\Stepan\Programing\WP.API\WP.Common\obj\Debug\net6.0\WP.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stepan\Programing\WP.API\WP.Common\obj\Debug\net6.0\WP.Common.AssemblyInfoInputs.cache
+D:\Stepan\Programing\WP.API\WP.Common\obj\Debug\net6.0\WP.Common.AssemblyInfo.cs
+D:\Stepan\Programing\WP.API\WP.Common\obj\Debug\net6.0\WP.Common.csproj.CoreCompileInputs.cache
+D:\Stepan\Programing\WP.API\WP.Common\obj\Debug\net6.0\WP.Common.dll
+D:\Stepan\Programing\WP.API\WP.Common\obj\Debug\net6.0\refint\WP.Common.dll
+D:\Stepan\Programing\WP.API\WP.Common\obj\Debug\net6.0\WP.Common.pdb
+D:\Stepan\Programing\WP.API\WP.Common\obj\Debug\net6.0\ref\WP.Common.dll

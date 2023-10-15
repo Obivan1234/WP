@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  wp.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80
+      - ConnectionStrings__DefaultConnection=Server=ms_sql,1433;Database=work_place;User Id=sa;Password=kIBWaki8@;TrustServerCertificate=True
+    ports:
+      - "5100:80"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
